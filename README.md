@@ -12,6 +12,18 @@
 
 *TODO The objective/purpose of your project.*
 
+#### Purpose
+
+The purpose of this project is to create a highly scalable, distributed web application for the general public to better understand the status of the COVID-19 pandemic.
+
+#### Objectives
+
+The web application will... | ...so that...
+------------------------------------------------------|--------------------------------------------------------------------  
+Utilise the [AWS public data lake for analysis of COVID-19](https://aws.amazon.com/ko/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/?fbclid=IwAR1XVPlWxg8G-a3TR7rJkwkvJFXFyAtT9e6vSvl8J5B-KsQPUg_aff4T8IE) as it's data source | *reason*
+The web application will be highly scalable *(needs to be more granular)* | *reason*
+The web application will compromise of a distributed architecture | *reason*
+
 ### d. Introduction: 
 
 *TODO* 
