@@ -18,11 +18,16 @@ The purpose of this project is to create a highly scalable, distributed web appl
 
 #### Objectives
 
+*TODO*
+
 The web application will... | ...so that...
 ------------------------------------------------------|--------------------------------------------------------------------  
 Utilise the [AWS public data lake for analysis of COVID-19](https://aws.amazon.com/ko/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/?fbclid=IwAR1XVPlWxg8G-a3TR7rJkwkvJFXFyAtT9e6vSvl8J5B-KsQPUg_aff4T8IE) as it's data source | *reason*
-The web application will be highly scalable *(needs to be more granular)* | *reason*
-The web application will compromise of a distributed architecture | *reason*
+be highly scalable *(needs to be more granular)* | it can accomodate for growth and will be easier to maintain
+compromise of a distributed architecture | bottlenecks and incapacity to scale are avoided. [1](###-i-References)
+present the data in an easy to digest dashboard | users can quickly ascertain an understanding of their requested data.
+utilise data analysis tools |  users can specify their inputs to meet their requirements.
+
 
 ### d. Introduction: 
 
@@ -61,6 +66,8 @@ ii. Description of your dataset/data structure/APIs/sensors you used for your pr
 ### i. References: 
 
 *TODO Important references/website links that you use to develop your application.*
+
+[1] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3452847/pdf/10278_2009_Article_BF03168667.pdf
 
 ### j. Video (optional): 
 
