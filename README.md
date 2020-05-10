@@ -20,9 +20,9 @@ The purpose of this project is to create a highly scalable, distributed web appl
 
 The web application will... | ...so that...
 ------------------------------------------------------|--------------------------------------------------------------------  
-utilise the [AWS public data lake for analysis of COVID-19](https://aws.amazon.com/ko/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/?fbclid=IwAR1XVPlWxg8G-a3TR7rJkwkvJFXFyAtT9e6vSvl8J5B-KsQPUg_aff4T8IE) as it's data source | data for the application will remain free, up-to-date and seeded from various reputable sources.[1](###-i-References)
+utilise the [AWS public data lake for analysis of COVID-19](https://aws.amazon.com/ko/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/?fbclid=IwAR1XVPlWxg8G-a3TR7rJkwkvJFXFyAtT9e6vSvl8J5B-KsQPUg_aff4T8IE) as it's data source | data for the application will remain free, up-to-date and seeded from various reputable sources.[[1]](###-i-References)
 be highly scalable *(needs to be more granular)* | it can accomodate for growth and will be easier to maintain
-comprise of a distributed architecture | bottlenecks and incapacity to scale are avoided. [2](###-i-References)
+comprise of a distributed architecture | bottlenecks and incapacity to scale are avoided. [[2]](###-i-References)
 present the data in an easy to digest dashboard | users can quickly ascertain an understanding of their requested data.
 utilise data analysis tools |  users can specify their inputs to meet their requirements.
 monitor health | any disruptions to service or security risks can be identified early and potentially averted.
