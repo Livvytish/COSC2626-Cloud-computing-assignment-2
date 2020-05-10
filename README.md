@@ -59,7 +59,7 @@ User case scenario:
 #### v. The advantages/positive/new things of your application.
 
 Advantage | Benefit
-----------|--------
+----------------------------------------|------------------------------------------------
 Complexity removed | Users can easily define their requirements which will be presented in a simple dashboard
 Up-to-date data from numerous sources | Users can know that what they are seeing is current and the result of not just one source.
 Unbiased and non-sensationalised | No news corporations driving fear into viewers for financial gain. Facts and numbers only.
